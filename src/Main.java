@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args)
     {
         boolean bol = true;
-        int num = 10*10+100000000000-3/1523
 
 
         if(bol){
