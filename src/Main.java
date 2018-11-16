@@ -4,17 +4,12 @@ public class Main {
 
     public static void main(String[] args)
     {
-        boolean bol = true;
 
 
-        if(bol){
         functie();
-        bol = false;
-        }
-        if(!bol) {
+
             functie2();
-            bol= true;
-        }
+
 
     }
     public static void functie()
